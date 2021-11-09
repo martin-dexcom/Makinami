@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+my_tool.py
+setup.py
+app/__init__.py
+app/__main__.py
+app/application.py
+makinami.egg-info/PKG-INFO
+makinami.egg-info/SOURCES.txt
+makinami.egg-info/dependency_links.txt
+makinami.egg-info/top_level.txt

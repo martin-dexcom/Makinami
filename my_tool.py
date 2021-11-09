@@ -1,0 +1,1 @@
+print("Makinami Tool v1.0.0")
